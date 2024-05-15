@@ -8,8 +8,6 @@
   
   🧐 I am interested in <!-- Django --><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-082D1F?style=flat&logo=Django&logoColor=white" /></a> <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
   
-  👩🏻‍💻 I wanna be full stack developer.
-  
   <br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent" height="180em">
