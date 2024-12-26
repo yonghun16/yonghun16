@@ -1,6 +1,6 @@
 <div align="center" display="inline-block" >
 
-## Hello my name is Frontend16 👋
+## Hello my name is frontend16 👋
 
   <br />
 
