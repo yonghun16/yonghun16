@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Frontend16
+# Hi! 👋 I'm Yonghun16
 
 ## 💬 About me
 - 🌱 I am a front-end developer.
@@ -11,7 +11,6 @@
 <!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonghun16)](https://wakatime.com/@yonghun16) -->
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
