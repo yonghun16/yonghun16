@@ -4,14 +4,25 @@
 - 🌱 I am a front-end developer.
 - ❤️ I love to code and read
 
-#### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16)](https://www.acmicpc.net/user/yonghun16)
+
+#### ⚙️ Languages & Frameworks
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
 
 #### ⏲️ Work Stats
-<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonghun16)](https://wakatime.com/@yonghun16) -->
+<!-- [![Yonghun16's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonghun16)](https://wakatime.com/@yonghun16) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+#### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16)](https://www.acmicpc.net/user/yonghun16)
 
 #### 🛠️ Github Stats
 <p>
