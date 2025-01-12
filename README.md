@@ -1,16 +1,37 @@
-<div align="center" display="inline-block" >
+# Hi! 👋 I'm Frontend16
 
-## Hello my name is Frontend16 👋
+## 💬 About me
+- 🌱 I am a front-end developer.
+- ❤️ I love to code and read
 
-  <br />
+#### 🎖️ Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16)](https://www.acmicpc.net/user/yonghun16)
 
-  💻 I am Web developer of <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=fleg&logo=React&logoColor=white" /></a> <!-- Vue.js --><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-34A06F?style=&logo=Vue.js&logoColor=white" /></a>
-  
-  🧐 I am interested in <!-- OpenAI --><a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" /></a>
-  
-  <br />
-  
+#### ⏲️ Work Stats
+<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonghun16)](https://wakatime.com/@yonghun16) -->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+#### 🛠️ Github Stats
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent" height="180em">
   <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" height="180em">
+</p>
 
-</div>
+
+<!--
+**yonghun16/yonghun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
