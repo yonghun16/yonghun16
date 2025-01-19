@@ -16,12 +16,13 @@
 <code><img height="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 
 #### 🛠️ Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16)](https://www.acmicpc.net/user/yonghun16)
-![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=yonghun16&theme=warm)
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" height="180em">
+  <a href="https://www.acmicpc.net/user/yonghun16"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16" width="348em" alt="Solved.ac 프로필"></a>
+  <img src="http://mazandi.herokuapp.com/api?handle=yonghun16&theme=warm" width="348em" alt="Solved.ac 잔디">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" width="396em">
 </p>
 
 
