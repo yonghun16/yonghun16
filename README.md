@@ -1,4 +1,4 @@
-# Yonghun16
+# yonghun16
 
 ### 💬 About me
 - 😄 I'm a <b>Frontend developer</b>.
