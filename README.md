@@ -3,7 +3,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
 - 🔭 I’m currently working on web development in the healthcare industry.
 - 🌱 I’m currently learning RN.
-- 🎯 I’m currently focused on solving problems.
+- 🎯 I’m currently focused on solving coding test problems.
 - ❤️ I love coding and reading.
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="25" />  Languages and Tools
