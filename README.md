@@ -16,7 +16,7 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
 <p>
-  <a href="https://solved.ac/profile/yonghun16><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16" width="348em"></a>
+  <a href="https://solved.ac/profile/yonghun16"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16" width="348em"></a>
   <a href="https://www.acmicpc.net/user/yonghun16"><img src="http://mazandi.herokuapp.com/api?handle=yonghun16&theme=warm" width="348em"></a>
 </p>
 <p>
