@@ -7,7 +7,7 @@
 - ❤️ I love coding and debating.
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
