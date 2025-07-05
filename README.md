@@ -21,10 +21,11 @@
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
-<p>
-  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" />
-  <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent" />
-</p>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghun16&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&show_icons=true&include_all_commits=true&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 
 
 <!--
