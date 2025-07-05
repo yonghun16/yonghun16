@@ -27,12 +27,6 @@
 </p>
 
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="20" />  Top Repositories
-<a href="https://github.com/yonghun16/fantasy-shop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=fantasy-shop&theme=transparent" /></a> 
-<a href="https://github.com/yonghun16/wordsearch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=wordsearch&theme=transparent" /></a> 
-
-
-
 <!--
 **yonghun16/yonghun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
