@@ -22,14 +22,14 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
 <p>
-  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" />
-  <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent" />
+  <img width="455em" src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=default" />
+  <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=default" />
 </p>
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="20" />  Top Repositories
-<a href="https://github.com/yonghun16/fantasy-shop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=fantasy-shop&theme=transparent" /></a> 
-<a href="https://github.com/yonghun16/wordsearch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=wordsearch&theme=transparent" /></a> 
+<a href="https://github.com/yonghun16/fantasy-shop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=fantasy-shop&theme=default" /></a> 
+<a href="https://github.com/yonghun16/wordsearch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=wordsearch&theme=default" /></a> 
 
 
 
