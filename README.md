@@ -1,10 +1,12 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="👋" aria-hidden="true" width="30" />  안녕하세요, 송용훈입니다.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
 - 🔭 I’m currently working in the healthcare industry.
 - 🌱 I’m currently learning RN.
 - 🎯 I’m currently focused on solving coding test problems.
 - ❤️ I love coding and debating.
+
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
 &nbsp;&nbsp;
@@ -17,16 +19,18 @@
 <!-- https://github.com/devicons/devicon/tree/master/icons/ --> 
 <!-- https://www.vectorlogo.zone/  -->
 
+
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
-
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghun16&theme=transparent&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&show_icons=true&include_all_commits=true&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
+
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="20" />  Top Repositories
-<a href="https://github.com/yonghun16/fantasy-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=fantasy-shop&theme=transparent" />
-</a>
+<a href="https://github.com/yonghun16/fantasy-shop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=fantasy-shop&theme=transparent" /></a> 
+<a href="https://github.com/yonghun16/wordsearch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yonghun16&repo=wordsearch&theme=transparent" /></a> 
+
+
+
 
 <!--
 **yonghun16/yonghun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,10 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" width="396em">
-</p>
 --> 
