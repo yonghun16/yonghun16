@@ -11,16 +11,16 @@
       <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="500" alt="대표 이미지" />
       <div>
         <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/healthmanager.jpeg?raw=true"></span>
-        <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/nerse3.jpeg?raw=true"></span>
+        <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse6.jpeg?raw=true"></span>
         <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse4.jpeg?raw=true"></span>
         <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers.jpeg?raw=true"></span>
       </div>
     </td>
     <td>
       <p>
-      I'm a healthcare data analyst using Python to turn complex medical data into actionable insights. I analyze patient records and hospital metrics to support data-driven decisions.<br /><br />
-      Skilled in Pandas, NumPy, and scikit-learn, I build models and pipelines that improve workflows and care strategies. I visualize findings with Matplotlib and Seaborn for clear communication.<br /><br />
-      I’m passionate about using data to drive better, more efficient patient care.
+        With a background in nursing and occupational health, I bring practical experience to healthcare data analysis—transforming medical data into insights that improve care and decisions.<br /><br />
+        Using Python tools like Pandas, NumPy, and scikit-learn, I build models and pipelines to optimize clinical workflows and visualize results.<br /><br />
+        Passionate about using data to drive smarter, more efficient healthcare.
       </p>
     </td>
   </tr>
