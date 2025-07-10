@@ -3,12 +3,29 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
 
-I'm a healthcare data analyst using Python to turn complex medical data into actionable insights. I analyze patient records and hospital metrics to support data-driven decisions.
 
-Skilled in Pandas, NumPy, and scikit-learn, I build models and pipelines that improve workflows and care strategies. I visualize findings with Matplotlib and Seaborn for clear communication.
 
-I’m passionate about using data to drive better, more efficient patient care.
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 250px; vertical-align: top; text-align: center;">
+      <img src="https://via.placeholder.com/200" alt="대표 이미지" style="display: block; margin-bottom: 10px;">
+      <div style="display: flex; justify-content: center; gap: 5px;">
+        <span style="width: 20px; height: 20px; background-color: #ccc;">d</span>
+        <span style="width: 20px; height: 20px; background-color: #ccc;">d</span>
+        <span style="width: 20px; height: 20px; background-color: #ccc;">d</span>
+        <span style="width: 20px; height: 20px; background-color: #ccc;">d</span>
+      </div>
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      I'm a healthcare data analyst using Python to turn complex medical data into actionable insights. I analyze patient records and hospital metrics to support data-driven decisions.<br /><br />
+      Skilled in Pandas, NumPy, and scikit-learn, I build models and pipelines that improve workflows and care strategies. I visualize findings with Matplotlib and Seaborn for clear communication.<br /><br />
+      I’m passionate about using data to drive better, more efficient patient care.
+    </td>
+  </tr>
+</table>
 
+
+I'm a healthcare data analyst using Python to turn complex medical data into actionable insights. I analyze patient records and hospital metrics to 
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
