@@ -11,10 +11,10 @@
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
 &nbsp;&nbsp;
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></code>
+<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" /></code>
+<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></code>
+<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></code>
+<code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" /></code>
 <!-- https://github.com/devicons/devicon/tree/master/icons/ --> 
 <!-- https://www.vectorlogo.zone/  -->
