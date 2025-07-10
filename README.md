@@ -1,17 +1,18 @@
-## Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="👋" aria-hidden="true" width="30" />  안녕하세요, 송용훈입니다.
+## Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="👋" aria-hidden="true" width="30" />  I'm YongHun
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
 
-I'm a healthcare data analyst using Python to uncover insights from complex medical and operational data. I work with patient records, clinical trials, and hospital metrics to support data-driven decisions and improve outcomes.
+I'm a healthcare data analyst using Python to turn complex medical data into actionable insights. I analyze patient records and hospital metrics to support data-driven decisions.
 
-With expertise in Pandas, NumPy, and scikit-learn, I build predictive models and data pipelines that streamline workflows and enhance care strategies. I also use Matplotlib and Seaborn to present insights clearly to both technical and non-technical audiences.
+Skilled in Pandas, NumPy, and scikit-learn, I build models and pipelines that improve workflows and care strategies. I visualize findings with Matplotlib and Seaborn for clear communication.
 
-Driven by a passion for real-world impact, I turn data into actionable insights that lead to better, more efficient patient care.
+I’m passionate about using data to drive better, more efficient patient care.
+
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
-&nbsp;&nbsp;
+
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></code>
@@ -20,6 +21,7 @@ Driven by a passion for real-world impact, I turn data into actionable insights 
 
 <!-- https://github.com/devicons/devicon/tree/master/icons/ --> 
 <!-- https://www.vectorlogo.zone/  -->
+
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
