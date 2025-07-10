@@ -2,20 +2,22 @@
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
-- 🔭 I’m currently working in the healthcare industry.
-- 🌱 I’m currently learning RN.
-- 🎯 I’m currently focused on solving coding test problems.
-- ❤️ I love coding and debating.
+
+I'm a healthcare data analyst using Python to uncover insights from complex medical and operational data. I work with patient records, clinical trials, and hospital metrics to support data-driven decisions and improve outcomes.
+
+With expertise in Pandas, NumPy, and scikit-learn, I build predictive models and data pipelines that streamline workflows and enhance care strategies. I also use Matplotlib and Seaborn to present insights clearly to both technical and non-technical audiences.
+
+Driven by a passion for real-world impact, I turn data into actionable insights that lead to better, more efficient patient care.
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
 &nbsp;&nbsp;
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></code>
 <code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></code>
-<code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" /></code>
+<code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /></code>
+
 <!-- https://github.com/devicons/devicon/tree/master/icons/ --> 
 <!-- https://www.vectorlogo.zone/  -->
 
