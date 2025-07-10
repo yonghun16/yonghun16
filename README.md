@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center" style="padding-right: 20px;">
-      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="480" alt="대표 이미지" />
+      <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="500" alt="대표 이미지" />
       <div>
         <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/healthmanager.jpeg?raw=true"> <img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/nerse1.jpeg?raw=true"></span>
         <span><img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse2.jpeg?raw=true"> <img width="50" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers.jpeg?raw=true"></span>
