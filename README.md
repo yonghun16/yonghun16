@@ -10,10 +10,10 @@
     <td align="center" style="padding-right: 20px;">
       <img src="https://github.com/yonghun16/yonghun16/blob/main/images/profile.jpeg?raw=true" width="490" alt="대표 이미지" />
       <div>
-        <span><img width="52" src="https://github.com/yonghun16/yonghun16/blob/main/images/healthmanager.jpeg?raw=true"></span>
-        <span><img width="52" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse6.jpeg?raw=true"></span>
-        <span><img width="52" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse4.jpeg?raw=true"></span>
-        <span><img width="52" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers.jpeg?raw=true"></span>
+        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/healthmanager.jpeg?raw=true"></span>
+        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse6.jpeg?raw=true"></span>
+        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse4.jpeg?raw=true"></span>
+        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers.jpeg?raw=true"></span>
       </div>
     </td>
     <td>
