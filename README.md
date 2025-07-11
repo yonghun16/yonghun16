@@ -33,6 +33,7 @@
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /></code>
 <code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></code>
+<code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" /></code>
 <code><img width="35" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /></code>
 
 <!-- https://github.com/devicons/devicon/tree/master/icons/ --> 
