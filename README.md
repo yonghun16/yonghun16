@@ -13,7 +13,7 @@
         <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/healthmanager.jpeg?raw=true"></span>
         <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse6.jpeg?raw=true"></span>
         <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/nurse4.jpeg?raw=true"></span>
-        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers.jpeg?raw=true"></span>
+        <span><img width="51" src="https://github.com/yonghun16/yonghun16/blob/main/images/programmers2.jpeg?raw=true"></span>
       </div>
     </td>
     <td>
