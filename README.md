@@ -23,11 +23,9 @@
 </table>
 
 
-<!-- <img align="right" height="250" width="375" style="margin-bottom: 10px;" alt="" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" /> -->
+<a href="https://www.gitanimals.org/ko_KR/mypage?type=farm-type"><img align="right" height="250" width="375" style="margin-bottom: 10px;" alt="" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" /></a>
 
-<a href="https://www.gitanimals.org/ko_KR/mypage?type=farm-type">
-  <img align="right" src="https://render.gitanimals.org/farms/yonghun16" height="250" width="375"/>
-</a>
+<!-- <a href="https://www.gitanimals.org/ko_KR/mypage?type=farm-type"><img align="right" src="https://render.gitanimals.org/farms/yonghun16" height="250" width="375"/></a> -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" /> Talking about Personal Stuff:
 
