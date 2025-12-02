@@ -1,9 +1,5 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="👋" aria-hidden="true" width="30" />  I'm YongHun
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" />  About me
-
-
 <!-- 이미지 + 설명을 table로 좌우 배치 -->
 <table>
   <tr>
@@ -26,6 +22,20 @@
   </tr>
 </table>
 
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" /> Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with TS, Python. Java etc.
+- 🚀 &nbsp; I’m currently exploring ML, DL, etc.
+- 👾 &nbsp; Fun fact: Simplicity is the hardest thing.
+- 📫 &nbsp; Reach me out: yonghun16@naver.com.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
 
