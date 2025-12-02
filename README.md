@@ -23,7 +23,7 @@
 </table>
 
 
-<img align="right" height="250" width="375" style="margin-bottom: 10px;" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" style="margin-bottom: 10px;" alt="" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨🏻‍💻" width="25" /> Talking about Personal Stuff:
 
@@ -32,12 +32,12 @@
 - 👾 &nbsp; Fun fact: Simplicity is the hardest thing.
 - 📫 &nbsp; Reach me out: yonghun16@naver.com.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> My Absolute Favorites:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="30" /> My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" />  Languages and Tools
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="🛠️" width="25" />  Languages and Tools
 
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
 <code><img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /></code>
@@ -51,13 +51,18 @@
 
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="🚀" width="25" />  Stats
 
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun16&theme=transparent" /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonghun16&theme=transparent"  /> |
+| <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonghun16&theme=transparent"  /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonghun16&theme=transparent"  /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonghun16&theme=transparent"  /> | 
+| ------------- | ------------- | ------------- |
+
+<div align="center" ><details>
+  <summary>More stats</summary>  
+    
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun16&theme=transparent" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonghun16&theme=transparent&utcOffset=8" /> |
 | ------------- | ------------- |
 
-| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonghun16&theme=transparent&utcOffset=8" /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonghun16&theme=transparent"  /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonghun16&theme=transparent"  /> | 
-| ------------- | ------------- | ------------- |
+</details></div>
 
 
 <!--
