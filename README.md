@@ -43,10 +43,11 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" />  Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghun16&theme=transparent&hide_border=true" /> | <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&show_icons=true&include_all_commits=true&layout=compact&theme=transparent&hide_border=true"  /> |
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun16&theme=transparent" /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonghun16&theme=transparent"  /> |
 | ------------- | ------------- |
 
-
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonghun16&theme=transparent&utcOffset=8" /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonghun16&theme=transparent"  /> | <img align="center" width="350em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonghun16&theme=transparent"  /> | 
+| ------------- | ------------- | ------------- |
 
 
 <!--
