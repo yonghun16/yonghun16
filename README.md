@@ -14,7 +14,7 @@
     </td>
     <td>
       <p>
-        With a background in nursing and occupational health, I bring practical experience to healthcare data analysis-transforming medical data into insights that improve care and decision-making.<br /><br />
+        With a background in nursing and occupational health, I bring practical experience to healthcare data analysis-transforming medical data into insights that improve care and decision.<br /><br />
         Using Python tools like Pandas, NumPy, and scikit-learn, I build models and pipelines to optimize clinical workflows and visualize results.<br /><br />
         Passionate about using data to drive smarter, more efficient healthcare.
       </p>
