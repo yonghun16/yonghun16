@@ -55,17 +55,23 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="🚀" width="25" /> Stats
 
-| <img align="center" width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonghun16&theme=transparent" /> | <img align="center" width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonghun16&theme=transparent" /> | <img align="center" width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonghun16&theme=transparent" /> |
-| ------------- | ------------- | ------------- |
+<p align="center">
+  <img width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonghun16&theme=transparent&v=2" />
+  <img width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonghun16&theme=transparent&v=2" />
+  <img width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonghun16&theme=transparent&v=2" />
+</p>
 
-<div align="center"><details>
-  <summary>More stats</summary>
+<div align="center">
+  <details>
+    <summary>More stats</summary>
+    <br />
 
-| <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun16&theme=transparent" /> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonghun16&theme=transparent&utcOffset=8" /> |
-| ------------- | ------------- |
+  <img width="700em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun16&theme=transparent&v=2" />
+  <br />
+  <img width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonghun16&theme=transparent&utcOffset=9&v=2" />
 
-</details></div>
-
+  </details>
+</div>
 
 <!--
 **yonghun16/yonghun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
