@@ -2,7 +2,7 @@
 configuration:
   pageTitle: Yonghun16
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
