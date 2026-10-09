@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Projetcs/GermSnap/00_Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "00_Overview"
             }
           }
         ]
@@ -175,25 +175,41 @@
   },
   "active": "e137ccbc0c4d1a3a",
   "lastOpenFiles": [
-    "Quartz/index.md",
-    "MacOS/맥 메뉴바 아이콘 정리 및 숨기기.md",
-    "index.md",
-    "Quartz/LeanSpec 설치 가이드.md",
-    "Quartz",
-    "Python/PyPI 배포.md",
-    "Python/index.md",
-    "Python",
-    "Math/수열의_극한.md",
-    "Math/수열_개념.md",
-    "Math/index.md",
-    "Math",
-    "MacOS/index.md",
-    "MacOS",
-    "Algorithm/점근 표기법.md",
-    "Algorithm/이중 연결 리스트.md",
-    "Algorithm/시간복잡도 분석 문제.md",
-    "Algorithm/단일 연결 리스트.md",
-    "Algorithm/index.md",
-    "Algorithm"
+    "Projetcs/Bingo/specs/006-reconnect-sync/README.md",
+    "Projetcs/Bingo/specs/005-chat/README.md",
+    "Projetcs/Bingo/specs/003-turn-gameplay/README.md",
+    "Projetcs/Bingo/specs/004-game-end-restart/README.md",
+    "Projetcs/Bingo/specs/001-room-lifecycle/README.md",
+    "Projetcs/Bingo/specs/002-board-setup/README.md",
+    "Projetcs/Bingo/개발/개발프로세스.md",
+    "Projetcs/Bingo/개발/Supabase-프로젝트-설정.md",
+    "Projetcs/Bingo/기획/게임흐름.md",
+    "Projetcs/Bingo/학습/04-핵심-설계-결정.md",
+    "Projetcs/Bingo/학습/02-Supabase-Realtime-핵심개념.md",
+    "Projetcs/Bingo/학습/05-직접-구현해보기.md",
+    "Projetcs/Bingo/학습/03-코드-읽는-순서.md",
+    "Projetcs/Bingo/학습/01-리액트-패턴.md",
+    "Projetcs/Bingo/학습/00-학습-가이드.md",
+    "Projetcs/Bingo/specs/README.md",
+    "Projetcs/Bingo/specs/006-reconnect-sync",
+    "Projetcs/Bingo/specs/005-chat",
+    "Projetcs/Bingo/specs/003-turn-gameplay",
+    "Projetcs/Bingo/specs/004-game-end-restart",
+    "Projetcs/Bingo/specs/001-room-lifecycle",
+    "Projetcs/Bingo/specs/002-board-setup",
+    "Projetcs/Bingo/AGENTS.md",
+    "Projetcs/Bingo/index.md",
+    "Projetcs/Bingo/개발",
+    "Projetcs/Bingo/기획",
+    "Projetcs/Bingo/학습",
+    "Projetcs/Bingo/specs",
+    "OS/MacOS/index.md",
+    "OS/MacOS/맥 메뉴바 아이콘 정리 및 숨기기.md",
+    "Etc/공시공부/영어/영어 37 that만 쓸 수 있는 구문.md",
+    "Etc/공시공부/영어/영어 36 선행사와 격에 맞는 관계사.md",
+    "Etc/공시공부/영어/영어 33 상관접속사 병렬대등.md",
+    "Etc/공시공부/영어/영어 34 what, which.md",
+    "Etc/공시공부/영어/영어 36 that vs what.md",
+    "Etc/공시공부/영어/영어 35 명사절접속사,  완전 VS 불완전 문장.md"
   ]
 }
