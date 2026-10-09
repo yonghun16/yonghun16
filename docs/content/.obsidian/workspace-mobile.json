@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "93f36dfe08b23410",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5d45211b62fc1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e137ccbc0c4d1a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quartz/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086ce39ad43d52d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a6b7bc3e3d8c3e96",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "a9e59eafdfdc750a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "95125baeb6e476b8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "3cb3bea8e5c04182",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "f7ba95e1e8195cf3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3d0074540337ebdc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2667f586872f50e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Quartz/index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "4e48ac444ce1ed63",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Quartz/index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "eab9109f1c1bab2d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Quartz/index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "e137ccbc0c4d1a3a",
+  "lastOpenFiles": [
+    "index.md",
+    "Quartz/index.md",
+    "Quartz/LeanSpec 설치 가이드.md",
+    "Quartz",
+    "Python/PyPI 배포.md",
+    "Python/index.md",
+    "Python",
+    "Math/수열의_극한.md",
+    "Math/수열_개념.md",
+    "Math/index.md",
+    "Math",
+    "MacOS/index.md",
+    "MacOS/맥 메뉴바 아이콘 정리 및 숨기기.md",
+    "MacOS",
+    "Algorithm/점근 표기법.md",
+    "Algorithm/이중 연결 리스트.md",
+    "Algorithm/시간복잡도 분석 문제.md",
+    "Algorithm/단일 연결 리스트.md",
+    "Algorithm/index.md",
+    "Algorithm"
+  ]
+}
