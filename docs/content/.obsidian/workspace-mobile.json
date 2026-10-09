@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quartz/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quartz/index.md",
+            "file": "index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quartz/index.md",
+            "file": "index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quartz/index.md",
+            "file": "index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -175,8 +175,9 @@
   },
   "active": "e137ccbc0c4d1a3a",
   "lastOpenFiles": [
-    "index.md",
     "Quartz/index.md",
+    "MacOS/맥 메뉴바 아이콘 정리 및 숨기기.md",
+    "index.md",
     "Quartz/LeanSpec 설치 가이드.md",
     "Quartz",
     "Python/PyPI 배포.md",
@@ -187,7 +188,6 @@
     "Math/index.md",
     "Math",
     "MacOS/index.md",
-    "MacOS/맥 메뉴바 아이콘 정리 및 숨기기.md",
     "MacOS",
     "Algorithm/점근 표기법.md",
     "Algorithm/이중 연결 리스트.md",

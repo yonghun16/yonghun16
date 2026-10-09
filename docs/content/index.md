@@ -16,10 +16,10 @@ tags:
 - [[Quartz/index|Quartz]] — Quartz 기반 옵시디언 웹 배포 가이드
 - [[Math/index|Math]] — 수학 개념 정리
 - [[Algorithm/index|Algorithm]] — 알고리즘/자료구조 학습 노트
+- 프로젝트 — 프로젝트  md
 
 ## 작성 예정
 
 - React
 - Neovim
 - AI
-- 테스트2
