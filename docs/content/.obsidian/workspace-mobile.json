@@ -173,8 +173,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "e137ccbc0c4d1a3a",
+  "active": "a6b7bc3e3d8c3e96",
   "lastOpenFiles": [
+    "Projetcs/Bingo/index.md",
+    "Projetcs/GermSnap/00_Overview.md",
     "Projetcs/Bingo/specs/006-reconnect-sync/README.md",
     "Projetcs/Bingo/specs/005-chat/README.md",
     "Projetcs/Bingo/specs/003-turn-gameplay/README.md",
@@ -198,7 +200,6 @@
     "Projetcs/Bingo/specs/001-room-lifecycle",
     "Projetcs/Bingo/specs/002-board-setup",
     "Projetcs/Bingo/AGENTS.md",
-    "Projetcs/Bingo/index.md",
     "Projetcs/Bingo/개발",
     "Projetcs/Bingo/기획",
     "Projetcs/Bingo/학습",
@@ -209,7 +210,6 @@
     "Etc/공시공부/영어/영어 36 선행사와 격에 맞는 관계사.md",
     "Etc/공시공부/영어/영어 33 상관접속사 병렬대등.md",
     "Etc/공시공부/영어/영어 34 what, which.md",
-    "Etc/공시공부/영어/영어 36 that vs what.md",
-    "Etc/공시공부/영어/영어 35 명사절접속사,  완전 VS 불완전 문장.md"
+    "Etc/공시공부/영어/영어 36 that vs what.md"
   ]
 }
