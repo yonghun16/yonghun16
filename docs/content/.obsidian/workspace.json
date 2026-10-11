@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "62e7b03dcd0bdff7",
+        "id": "437caae6ad8e6f13",
         "type": "tabs",
         "children": [
           {
-            "id": "126dcc7ae871e5b7",
+            "id": "3cad63e316dc207c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/파이썬 API 호출·데이터 수집.md",
+                "file": "Math/구간.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파이썬 API 호출·데이터 수집"
-            }
-          },
-          {
-            "id": "001b7b66d3640fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analysis/데이터 시각화 - 선 그래프와 막대 그래프.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "데이터 시각화 - 선 그래프와 막대 그래프"
-            }
-          },
-          {
-            "id": "809a189608e25718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analysis/데이터 변환 및 전처리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "데이터 변환 및 전처리"
+              "title": "구간"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,11 +188,15 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "001b7b66d3640fb2",
+  "active": "3cad63e316dc207c",
   "lastOpenFiles": [
-    "Data Analysis/파이썬 API 호출·데이터 수집.md",
-    "Data Analysis/데이터 시각화 - 선 그래프와 막대 그래프.md",
+    "Math/수열의_극한.md",
+    "Math/수학적 귀납법.md",
+    "Math/구간.md",
+    "Math/수열_개념.md",
     "Data Analysis/데이터 변환 및 전처리.md",
+    "Data Analysis/데이터 시각화 - 선 그래프와 막대 그래프.md",
+    "Data Analysis/파이썬 API 호출·데이터 수집.md",
     "Python/PyPI 배포.md",
     "Data Analysis",
     "Python/index.md"
