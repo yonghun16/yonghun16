@@ -35,8 +35,7 @@
               "title": "레슨 1.1 설치와 첫 프로그램"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "791a107a6beca544",
+  "active": "3cad63e316dc207c",
   "lastOpenFiles": [
-    "index.md",
     "Language/Rust/레슨 1.1 설치와 첫 프로그램.md",
+    "Python/index.md",
+    "Python/PyPI 배포.md",
+    "Python",
+    "index.md",
     "Math/구간.md",
     "Language/Rust",
     "Language",
