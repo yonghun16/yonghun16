@@ -64,7 +64,7 @@ npx quartz create
 configuration:
   pageTitle: 나만의 프로젝트 타이틀 # 좌측 상단에 표시될 사이트 제목
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
@@ -99,7 +99,10 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - main # 기본 브랜치가 master면 master로 수정
+      - main
+    paths:
+      - "docs/**"
+      - ".github/workflows/deploy.yml" # 워크플로우 자체 변경도 감지
 
 permissions:
   contents: read
@@ -122,19 +125,25 @@ jobs:
         with:
           node-version: 22
 
-      # --legacy-peer-deps 플래그를 추가하여 패키지 버전을 무시하고 설치
+      # npm 캐싱 추가
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: docs/node_modules
+          key: ${{ runner.os }}-npm-${{ hashFiles('docs/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
       - name: Install Dependencies
         run: |
           cd docs
           npm install --legacy-peer-deps
 
-      # Quartz 빌드 실행
       - name: Build Quartz
         run: |
           cd docs
           npx quartz build
 
-      # 결과물 업로드
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -150,6 +159,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 ```
 
 ## 5. GitHub 저장소 Pages 설정 및 첫 배포
