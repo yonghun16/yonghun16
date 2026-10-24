@@ -134,12 +134,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-npm-
 
+      # npm audit 서버 응답 지연으로 5분씩 멈추는 문제 방지 (--no-audit)
       - name: Install Dependencies
         run: |
           cd docs
-          npm install --legacy-peer-deps
+          npm install --legacy-peer-deps --no-audit --no-fund
 
+      # Quartz가 빌드 중 테마를 설치할 때도 audit가 돌기 때문에 환경변수로 끔
       - name: Build Quartz
+        env:
+          npm_config_audit: "false"
+          npm_config_fund: "false"
         run: |
           cd docs
           npx quartz build
@@ -159,6 +164,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
 ```
 
